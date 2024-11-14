@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Gupter", serif;
+}
+
+body{
+    background-color:aliceblue;  
+}
+
+
+   /* .saved{
+    margin-top: 1px;
+    background-color:red;
+    border-radius: 1px;
+    text-align: center;
+    
+  }  */
+  h1{
+    text-align: center;
+    padding: 10px;
+  }
+  h2{
+    text-align: center;
+    padding: 10px;
+  }
+  p{
+    text-align: center;
+   
+  }
+  .button{
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    justify-content:space-evenly;
+  
+  }
+  
+
+  .total{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(117, 176, 184);
+    height: 150px;
+    border-radius: 30px;
+    margin: 20px;
+}
